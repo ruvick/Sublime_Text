@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"font_size": 10,//Размер шрифта по умолчанию
+	"theme": "Adaptive.sublime-theme",
+	"draw_indent_guides": false,//Убирает направляющие линии
+	"draw_white_space": "all",//Отображает непечатаемые символы
+	"tab_size": 2,//Размер табуляции
+	"trim_trailling_white_space_on_save": false,//Отключает самодеятельность программы
+	"word_wrap" : false, // запрещает перенос строки
+
+}

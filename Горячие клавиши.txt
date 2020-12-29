@@ -1,0 +1,10 @@
+Старое
+[
+	{"keys": ["alt+ctrl+a"], "command": "reindent", "args": {"single_line": false}}
+]
+=================================================================================================
+
+Новое
+[
+	{"keys": ["ctrl+1"], "command": "goto_css_declaration", "args": {"goto": "next"}}
+]
